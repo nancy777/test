@@ -15,6 +15,6 @@
 			<!-- /Post -->
 		
 		</div>
-		
+		<span></span>
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
